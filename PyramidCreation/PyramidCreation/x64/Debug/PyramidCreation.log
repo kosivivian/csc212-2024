@@ -1,0 +1,18 @@
+﻿  pyramid.cpp
+  pyramidNoOOP.cpp
+C:\GLP\PyramidCreation\pyramidNoOOP.cpp(54,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidCreation\pyramidNoOOP.cpp(54,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidCreation\pyramidNoOOP.cpp(54,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidCreation\pyramidNoOOP.cpp(54,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Renderer3D.cpp
+C:\GLP\PyramidCreation\Renderer3D.cpp(28,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidCreation\Renderer3D.cpp(28,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidCreation\Renderer3D.cpp(28,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidCreation\Renderer3D.cpp(28,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidCreation\Renderer3D.cpp(35,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\GLP\PyramidCreation\Renderer3D.cpp(35,28): warning C4244:         with
+C:\GLP\PyramidCreation\Renderer3D.cpp(35,28): warning C4244:         [
+C:\GLP\PyramidCreation\Renderer3D.cpp(35,28): warning C4244:             _Rep=double
+C:\GLP\PyramidCreation\Renderer3D.cpp(35,28): warning C4244:         ]
+  Generating Code...
+  PyramidCreation.vcxproj -> C:\GLP\PyramidCreation\x64\Debug\PyramidCreation.exe

@@ -1,0 +1,27 @@
+﻿  pyramid.cpp
+  PyramidNoOOP.cpp
+  Renderer3D.cpp
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(92,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(92,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(92,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(92,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(98,31): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(98,31): warning C4244:         with
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(98,31): warning C4244:         [
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(98,31): warning C4244:             _Rep=double
+C:\GLP\PyramidRotation\PyramidNoOOP.cpp(98,31): warning C4244:         ]
+C:\GLP\PyramidRotation\Renderer3D.cpp(29,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(29,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(29,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(29,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(36,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(36,28): warning C4244:         with
+C:\GLP\PyramidRotation\Renderer3D.cpp(36,28): warning C4244:         [
+C:\GLP\PyramidRotation\Renderer3D.cpp(36,28): warning C4244:             _Rep=double
+C:\GLP\PyramidRotation\Renderer3D.cpp(36,28): warning C4244:         ]
+C:\GLP\PyramidRotation\Renderer3D.cpp(49,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(50,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(57,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\PyramidRotation\Renderer3D.cpp(59,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  PyramidRotation.vcxproj -> C:\GLP\PyramidRotation\x64\Debug\PyramidRotation.exe
